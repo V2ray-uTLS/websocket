@@ -1,4 +1,4 @@
-// Copyright 2015 The Gorilla WebSocket Authors. All rights reserved.
+c// Copyright 2015 The Gorilla WebSocket Authors. All rights reserved.
 // Use of this source code is governed by a BSD-style
 // license that can be found in the LICENSE file.
 
@@ -9,7 +9,7 @@ import (
 	"net/http"
 	"testing"
 
-	"github.com/emc2314/websocket"
+	"github.com/V2ray-uTLS/websocket"
 )
 
 var (
